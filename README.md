@@ -38,6 +38,7 @@ This project demostrates working with external npm packages, date manipulation, 
 
 ## 📂 Project Structure
 
+```
 age-calculator-luxon/
 │
 ├── index.html
@@ -51,6 +52,7 @@ age-calculator-luxon/
 │
 └── src/
     └── main.js
+```
 
 ## 🚀 Getting Started
 
