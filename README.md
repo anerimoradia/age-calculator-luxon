@@ -43,7 +43,11 @@ age-calculator-luxon/
 ├── index.html
 ├── style.css
 ├── package.json
-├── vite.config.js
+├── package-lock.json
+├── README.md
+│
+├── public/
+│   └── vite.svg
 │
 └── src/
     └── main.js
